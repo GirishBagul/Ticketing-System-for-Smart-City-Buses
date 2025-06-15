@@ -1,0 +1,26 @@
+# Flutter/Dart
+**/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+*.lock
+
+# Android/iOS
+**/android/.gradle/
+**/android/.idea/
+**/ios/Pods/
+**/ios/Runner.xcworkspace/
+
+# Firebase
+**/google-services.json
+**/GoogleService-Info.plist
+
+# OS & IDE
+.DS_Store
+*.log
+*.swp
+.idea/
+.vscode/
